@@ -6,6 +6,6 @@ hamburger.addEventListener("click", () => {
     navMenu.classList.toggle("active");
 });
 
-
-
-
+function changePagePosition() {
+    document.location.href = "#test";
+};
