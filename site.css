@@ -171,7 +171,56 @@ input {
     width: 50%;
 }
 
+.testimonial {
+    padding: 10px 10px;
+}
 
+.blurb1 {
+    display: flex;
+    align-content: flex-start;
+    padding: 10px;
+}
+
+.blurb1 img {
+    width: 300px;
+    height: 300px;
+}
+
+.blurb1 p {
+    padding: 50px 10px;
+    text-align: center;
+}
+
+.blurb2 {
+    display: flex;
+    padding: 10px;
+}
+
+.blurb2 img {
+    width: 300px;
+    height: 300px;
+}
+
+.blurb2 p {
+    padding: 50px 10px;
+    text-align: center;
+}
+
+.blurb3 {
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+}
+
+.blurb3 img {
+    width: 300px;
+    height: 300px;
+}
+
+.blurb3 p {
+    padding: 50px 10px;
+    text-align: center;
+}
 
 @media(max-width:768px) {
 
