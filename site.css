@@ -285,9 +285,6 @@ input {
         flex-direction: column;
     }
 
-    .bannertext {
-    }
-
     .contactdiv {
         padding: 0px;
         padding-top: 25px;
@@ -315,6 +312,23 @@ input {
         display: flex;
         flex-direction: column;
         padding-top: 25px;
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .social {
+        padding-bottom: 10px;
+    }
+
+    .contact {
+        padding-bottom: 10px;
+    }
+
+    .map {
+        text-align: center;
     }
 }
 
