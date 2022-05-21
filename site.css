@@ -161,6 +161,15 @@ a {
     padding: 10px;
 }
 
+.comments textarea {
+    resize: none;
+}
+
+.comments button {
+    margin-top: 25px;
+    padding: 5px 5px;
+}
+
 label {
     color: white;
 }
@@ -278,6 +287,12 @@ input {
 
     .bannertext {
         padding: 20px;
+    }
+
+    .contactdiv {
+        padding: 0px;
+        padding-top: 25px;
+        padding-bottom: 25px;
     }
 }
 
