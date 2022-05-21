@@ -120,7 +120,7 @@ a {
 .contactdiv {
     display: block;
     text-align: center;
-    background-color: rgb(67, 13, 230);
+    background-color: rgb(22, 2, 97);
     padding: 25px;
 }
 
@@ -214,15 +214,16 @@ input {
 }
 
 .footer {
-
+    background-color: rgb(90, 52, 12);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
 }
 
-.social {
-
-}
-
-.contact {
-    
+.map img {
+    width: 200px;
+    height: 200px;
 }
 
 @media(max-width:768px) {
