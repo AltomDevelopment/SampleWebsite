@@ -118,7 +118,6 @@ a {
 
 .content:hover {
     font-size: larger;
-    
 }
 
 .showcase p {
@@ -136,6 +135,10 @@ a {
 .contactform {
     display: inline-block;
     text-align: center;
+}
+
+.contactform:hover {
+    font-size: large;
 }
 
 .firstname {
